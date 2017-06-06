@@ -62,10 +62,15 @@ a:hover
   color: white
 }
 
+li
+{
+	padding: 5px 10px 10px 10px;
+}
+
 header 
 {
   text-align: center;
-  background: url('../images/tahoe01.jpg') no-repeat top center ;
+  background: url('../images/banner.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
